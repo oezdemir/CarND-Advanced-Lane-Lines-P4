@@ -139,6 +139,7 @@ A final output example of the pipeline is shown below:
 
 ![](img/final_example.png)
 
+The final result video can be found [here](../code/project_result.mp4).
 
 ## Discussion
 
